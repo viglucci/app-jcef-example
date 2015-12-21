@@ -10,7 +10,7 @@ A build of JCEF to be available via your PATH environment variable. \n
 
 https://bitbucket.org/chromiumembedded/java-cef/wiki/BranchesAndBuilding
 
-Add the some_directory/jcef_build/native/Release directory to your path.
+Add the `some_directory/jcef_build/native/Release` directory to your PATH environment variable.
 
 ### Java JDK
 
