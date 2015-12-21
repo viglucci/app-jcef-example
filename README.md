@@ -25,7 +25,7 @@ Java 1.8
 Setup:
 
 1. File -> Project Structure -> Artifacts 
-2. Click Green + -> Jar -> from module with dependencies
+2. Green + -> Jar -> from module with dependencies
 3. Select SimpleFrameExample
 
 Build:
