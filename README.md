@@ -4,9 +4,17 @@ Example application for using Java Chrome Embedded Framework
 
 ## Prerequisites
 
-Requires a build of JCEF to be available via your PATH environment variable.
+### JCEF
+
+A build of JCEF to be available via your PATH environment variable. \n
 
 https://bitbucket.org/chromiumembedded/java-cef/wiki/BranchesAndBuilding
+
+Add the some_directory/jcef_build/native/Release directory to your path.
+
+### Java JDK
+
+Java 1.8
 
 ## Maven Build
 
@@ -26,5 +34,5 @@ Build:
 
 ## Run from run.bat
 
-1. From IntelliJ project explorer -> Right click run.bat -> Run 'run'
+1. From IntelliJ project explorer -> right click run.bat -> Run 'run'
 
