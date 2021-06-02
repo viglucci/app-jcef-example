@@ -6,7 +6,7 @@ Example application for using Java Chrome Embedded Framework
 
 ### JCEF
 
-A build of JCEF to be available via your PATH environment variable. \n
+A build of JCEF to be available via your PATH environment variable.
 
 https://bitbucket.org/chromiumembedded/java-cef/wiki/BranchesAndBuilding
 
